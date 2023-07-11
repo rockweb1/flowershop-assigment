@@ -142,8 +142,11 @@ main{
    justify-content: space-around;
 }
 
+/*---------------lastest part start part css-------------*/
+
 .latest{
     background: url('../Flower Asset/Rectangle 9.png');
+    margin-bottom: 80px;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -164,7 +167,33 @@ main{
     font-weight: 400;
     border-radius: 8px;
     width: 500px;
-height: 55px;
+    height: 55px;
     background: #FFF;
     border: none;
+}
+
+/*---------------footer part start part css-------------*/
+.footer_main{
+    background: #111010;
+    text-align: center;
+    padding: 120px 0px 100px 0;
+}
+
+.footer_head{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer_para{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+
+.footer_span{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
 }
