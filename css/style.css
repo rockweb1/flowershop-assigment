@@ -63,13 +63,17 @@ main{
     width: 594px;
     margin-left: 292px;
 }
-.f_img{
+.featureimg{
     display: flex;
     justify-content: space-around;
 }
-.geature_img_main{
+.feature_img_part{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    margin-right: 25px;
+}
+.f_img{
+    padding:117px 47px 51px 0px;
 }
 
 /*---------------feature part start part css-------------*/
