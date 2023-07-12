@@ -67,13 +67,34 @@ main{
     display: flex;
     justify-content: space-around;
 }
-.feature_img_part{
+.feature_img_part_o{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     margin-right: 25px;
 }
+.feature_img_part_n{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-right: 25px;
+}
+.feature_img_part_e{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-right: 25px;
+}
 .f_img{
     padding:117px 47px 51px 0px;
+}
+.feature_text{
+    display: flex;
+    justify-content: space-around;
+}
+.feature_text_p p{
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
 }
 
 /*---------------feature part start part css-------------*/
