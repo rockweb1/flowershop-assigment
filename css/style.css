@@ -192,7 +192,9 @@ main{
     color: rgba(255, 255, 255, 0.90);
     font-size: 18px;
     font-weight: 400;
+    width: 500px;
     line-height: 30px;
+    margin-left: 513px;
     
 }
 
